@@ -1,0 +1,28 @@
+{
+"Employees" : [
+{
+"jobTitleName":"Developer",
+"firstName":"John",
+"lastName":"Doe",
+"employeeCode":"E1",
+"phoneNumber":"345-1234567",
+"emailAddress":"johndoe@email.com"
+},
+{
+"jobTitleName":"Developer",
+"firstName":"Maria",
+"lastName":"geogo",
+"employeeCode":"E2",
+"phoneNumber":"766-1111111",
+"emailAddress":"maria.geogo@email.com"
+},
+{
+"jobTitleName":"Product owner",
+"firstName":"Jiji",
+"lastName":"Hanks",
+"employeeCode":"E3",
+"phoneNumber":"567-56754476",
+"emailAddress":"jijihanks@email.com"
+}
+]
+}

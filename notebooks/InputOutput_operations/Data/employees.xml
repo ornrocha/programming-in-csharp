@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListEmployees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <Employees>
+      <Employee>
+         <emailAddress>johndoe@email.com</emailAddress>
+         <employeeCode>E1</employeeCode>
+         <firstName>John</firstName>
+         <jobTitleName>Developer</jobTitleName>
+         <lastName>Doe</lastName>
+         <phoneNumber>345-1234567</phoneNumber>
+      </Employee>
+      <Employee>
+         <emailAddress>maria.geogo@email.com</emailAddress>
+         <employeeCode>E2</employeeCode>
+         <firstName>Maria</firstName>
+         <jobTitleName>Developer</jobTitleName>
+         <lastName>geogo</lastName>
+         <phoneNumber>766-1111111</phoneNumber>
+      </Employee>
+      <Employee>
+         <emailAddress>jijihanks@email.com</emailAddress>
+         <employeeCode>E3</employeeCode>
+         <firstName>Jiji</firstName>
+         <jobTitleName>Product owner</jobTitleName>
+         <lastName>Hanks</lastName>
+         <phoneNumber>567-56754476</phoneNumber>
+      </Employee>
+   </Employees>
+</ListEmployees>
